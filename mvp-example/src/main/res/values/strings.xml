@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MvpTemplateProject</string>
+    <string name="button_some_action_text">Some action</string>
 </resources>
